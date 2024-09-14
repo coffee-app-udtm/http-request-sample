@@ -1,0 +1,13 @@
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\bin\Debug\HttpRequestSample.exe.config
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\bin\Debug\HttpRequestSample.exe
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\bin\Debug\HttpRequestSample.pdb
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.csproj.AssemblyReference.cache
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.Form1.resources
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.Properties.Resources.resources
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.csproj.GenerateResource.cache
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.csproj.CoreCompileInputs.cache
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.csproj.CopyComplete
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.exe
+C:\Users\84359\Documents\Projects\Winform\HttpRequestSample\HttpRequestSample\obj\Debug\HttpRequestSample.pdb
